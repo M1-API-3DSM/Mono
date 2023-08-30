@@ -1,0 +1,14 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "repository": "https://github.com/M1-API-3DSM/Mono.git",
+  "author": "Miguel Carvalho <doxito007@gmail.com>",
+  "license": "MIT"
+}
